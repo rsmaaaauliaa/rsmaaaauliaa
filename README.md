@@ -24,7 +24,7 @@
 		<section id="produk">
 			<h2>Produk</h2>
 			<div class="produk">
-				<img src="https://images.app.goo.gl/mwRDvxBioTNeVXy17.jpg" alt="Brownies Crispy">
+				<img src="https://images.app.goo.gl/mwRDvxBioTNeVXy17.jpg" /> alt="Brownies Crispy">
 				<h3>Brownies Crispy rasa coklat</h3>
 				<p>Rp 15.000</p>
 				<a href="#form-pesan">Pesan Sekarang</a>
